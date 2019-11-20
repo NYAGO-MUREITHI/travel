@@ -9,8 +9,9 @@ h2 {
     font-style: italic;
     text-align: center;
 }
-.impo {
+p.impo {
        font-style: bold;
+       color: red;
 }
 #navbar {
   overflow: hidden;
@@ -18,4 +19,7 @@ h2 {
 }
 p {
    text-align: center;
+}
+em {
+    font-style: bold;
 }
