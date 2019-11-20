@@ -1,12 +1,21 @@
 body {
-      background-color: #FFA07A;
+      background-color: silver;
 }
 h1 {
     font-style: bold;
+    text-align: center;
 }
 h2 {
     font-style: italic;
+    text-align: center;
 }
 .impo {
        font-style: bold;
+}
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+p {
+   text-align: center;
 }
