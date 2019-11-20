@@ -16,10 +16,13 @@ li {
 h2 {
     text-align: center;
 }
-header.tropical {
+h1.tropical {
            color: #f7325e
 }
 .tropical {
            color: #7dc410;
            font-family: fantasy;
+}
+h2.tropical {
+           color: #f7325e
 }
